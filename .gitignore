@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment files (server/.env and client/.env are included in this handoff for
+# convenience, but should not be committed once you put this under version control)
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Uploaded files (avatars, note PDFs, etc.) — runtime data, not source
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
