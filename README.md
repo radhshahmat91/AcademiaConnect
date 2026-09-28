@@ -1,4 +1,6 @@
 # AcademiaConnect
+<a href="https://academia-connect-nine.vercel.app">Live Demo</a>
+
 
 A full-stack university platform: courses (with video lectures and notes), clubs, events,
 university-wide notices, real-time messaging between students, individual profiles, and an
